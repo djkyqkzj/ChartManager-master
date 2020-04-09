@@ -1,5 +1,8 @@
 # ChartManager-master
 Android图表控件MPAndroidChart——曲线图LineChart的使用（财富收益图）
+
+
+
 repositories {
     maven { url 'https://jitpack.io' }
 }
